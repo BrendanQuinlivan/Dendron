@@ -1,6 +1,5 @@
 site:
     copyAssets: true
-    siteHierarchies:
-        - root
+    siteHierarchies: [campaign, notes, test]
     siteRootDir: docs
     usePrettyRefs: true
